@@ -87,6 +87,12 @@ npm run build
 npm run cypress:open
 ```
 
+### Unit и интеграционные тесты (Jest)
+
+```bash
+npm test
+```
+
 ### Storybook
 
 ## 🏗️ Архитектура
